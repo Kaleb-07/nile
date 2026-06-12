@@ -23,7 +23,6 @@ import Footer from '../components/layout/Footer';
 // REUSABLE COMPONENTS
 // ============================================
 
-// (Removed local AnimatedCounter — moved to shared components if needed)
 
 // (Removed unused local StatCard - using shared component if needed)
 
