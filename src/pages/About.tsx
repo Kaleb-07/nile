@@ -120,9 +120,7 @@ const About: React.FC = () => {
       {/* Navbar */}
       <Navbar />
       
-      {/* ============================================
-          1. ABOUT HERO SECTION
-      ============================================ */}
+      {/* 1. ABOUT HERO SECTION */}
       <SplitHeroSection
         // eyebrow="About Kura Films"
         title={<>We Tell Stories <br /><span className="text-gradient">That Matter</span></>}
