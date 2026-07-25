@@ -129,9 +129,9 @@ const About: React.FC = () => {
         scrollLabel="Scroll to Explore"
       />
 
-      {/* ============================================
+      {/*
           2. OUR STORY SECTION
-      ============================================ */}
+*/}
       <section className="py-10 px-6 bg-[#050505]">
         <div className="max-w-7xl mx-auto">
           <div className="grid md:grid-cols-2 gap-16 items-center">
