@@ -74,7 +74,6 @@ const ValueCard: React.FC<{ icon: React.ReactNode; title: string; description: s
   );
 };
 
-// ============================================
 // MAIN ABOUT PAGE COMPONENT
 
 const About: React.FC = () => {
