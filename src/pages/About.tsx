@@ -41,7 +41,7 @@ const TimelineItem: React.FC<{ year: string; title: string; description: string;
         <span className="text-lg sm:text-2xl font-bold text-[#050505]">{year}</span>
       </div>
 
-      {/* Content */}
+      {/* Contents */}
       <div className="p-4 md:p-6 md:glass rounded-none md:rounded-xl flex-1 hover:bg-white/10 transition-all duration-300">
         <h3 className="text-xl font-bold text-white mb-2">{title}</h3>
         <p className="text-slate-400 leading-relaxed">{description}</p>
