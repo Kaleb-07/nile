@@ -291,9 +291,7 @@ const About: React.FC = () => {
         </div>
       </section>
 
-      {/* ============================================
-          4. OUR VALUES SECTION
-      ============================================ */}
+      {/*  4. OUR VALUES SECTION*/}
       <section className="py-10 px-6 bg-[#0a0a0a]">
         <div className="max-w-7xl mx-auto">
           <SectionTitle 
