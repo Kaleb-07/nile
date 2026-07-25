@@ -21,7 +21,6 @@ import Footer from '../components/layout/Footer';
 
 // ============================================
 // REUSABLE COMPONENTS
-// ============================================
 
 // Timeline Item Component
 const TimelineItem: React.FC<{ year: string; title: string; description: string; index: number }> = ({ 
