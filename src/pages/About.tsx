@@ -74,7 +74,7 @@ const ValueCard: React.FC<{ icon: React.ReactNode; title: string; description: s
   );
 };
 
-// MAIN ABOUT PAGE COMPONENT
+// MAIN ABOUT PAGE COMPONENTS
 
 const About: React.FC = () => {
   const [selectedValueIndex, setSelectedValueIndex] = useState<number>(0);
