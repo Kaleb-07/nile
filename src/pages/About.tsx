@@ -194,9 +194,7 @@ const About: React.FC = () => {
         </div>
       </section>
 
-      {/* ============================================
-          3. MISSION & VISION SECTION
-      ============================================ */}
+      {/* 3. MISSION & VISION SECTION */}
       <section className="py-10 px-6 bg-linear-to-b from-[#050505] to-[#0a0a0a]">
         <div className="max-w-6xl mx-auto">
           <SectionTitle 
