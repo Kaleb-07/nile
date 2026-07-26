@@ -35,7 +35,7 @@ async function processFile(filePath) {
         .toFile(outBase + '.jpg')
     }
 
-    // Also write a small placeholder (blurred tiny) ~20px for LQIP
+    // Also write a small placeholder (blurred tiny) ~20px
     await sharp(input)
       .resize({ width: 20 })
       .blur(1)
