@@ -19,8 +19,6 @@ import { SplitHeroSection } from '../components/cinematic/SplitHeroSection';
 import Navbar from '../components/layout/Navbar';
 import Footer from '../components/layout/Footer';
 
-// REUSABLE COMPONENTS
-
 // Timeline Item Component
 const TimelineItem: React.FC<{ year: string; title: string; description: string; index: number }> = ({ 
   year, 
