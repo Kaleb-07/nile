@@ -257,7 +257,7 @@ const Home = () => {
               <h2 className="text-4xl md:text-5xl font-bold tracking-tight text-[#e8e6e3]">Our Expertise</h2>
             </div>
 
-            {/* Cards grid - show all cards on large screens */}
+            {/* Cards grid show all cards on large screens */}
             <div className="mt-10">
               <div className="mx-auto px-4 md:px-0">
                 <div className="hidden md:grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-5">
