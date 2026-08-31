@@ -333,7 +333,7 @@ const MobileFilterDrawer: React.FC<{
   );
 };
 
-// FeaturedProjectCard removed — recognition section simplified and spotlight removed
+// FeaturedProjectCard removed — recognition section simplified and spotlight the removed
 
 // Standard Project Card Component
 const ProjectCard: React.FC<{ project: Project; index: number }> = ({ 
