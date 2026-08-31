@@ -363,7 +363,7 @@ const ProjectCard: React.FC<{ project: Project; index: number }> = ({
         <Play className="w-5 h-5 text-white ml-0.5 fill-white" />
       </div>
 
-      {/* Content */}
+      {/* The Contents */}
       <div className="p-6">
         <div className="flex items-center gap-2 mb-3">
           <span className="text-[#d4af37] text-xs uppercase tracking-wider font-semibold">
