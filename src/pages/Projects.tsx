@@ -349,7 +349,7 @@ const ProjectCard: React.FC<{ project: Project; index: number }> = ({
       whileHover={{ y: -8 }}
       className="group relative overflow-hidden rounded-2xl cursor-pointer bg-zinc-900"
     >
-      {/* Image */}
+      {/* The Image */}
       <div className="aspect-video overflow-hidden">
         <img 
           src={project.image} 
