@@ -480,9 +480,7 @@ const Projects: React.FC = () => {
 
       {/* Featured projects removed per request */}
 
-      {/* ============================================
-          4. ALL PROJECTS GRID
-      ============================================ */}
+      {/* 4. ALL PROJECTS GRID */}
       <section className="py-10 px-6 bg-gradient-to-b from-[#050505] to-[#0a0a0a]">
         <div className="max-w-7xl mx-auto">
           <SectionTitle 
