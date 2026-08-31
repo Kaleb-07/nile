@@ -12,9 +12,7 @@ import { SplitHeroSection } from '../components/cinematic/SplitHeroSection';
 import Navbar from '../components/layout/Navbar';
 import Footer from '../components/layout/Footer';
 
-// ============================================
 // TYPES & DATA
-// ============================================
 
 interface Project {
   id: string;
