@@ -101,7 +101,7 @@ const Home = () => {
     <div className="bg-[#050505] text-white overflow-x-hidden">
       <Navbar />
 
-      {/* ─── HERO ─── */}
+      {/* ───The HERO ─── */}
       <section className="relative min-h-screen flex items-center overflow-hidden pt-[30px] pb-[30px]">
         <div className="absolute inset-0">
           <img
