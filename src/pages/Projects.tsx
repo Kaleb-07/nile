@@ -158,7 +158,6 @@ const testimonials = [
   }
 ];
 
-// ============================================
 // REUSABLE COMPONENTS
 // Filter Bar Component
 const FilterBar: React.FC<{
