@@ -267,7 +267,7 @@ const FilterSidebar: React.FC<{
   );
 };
 
-// Mobile filter drawer
+// Mobile filter drawing 
 const MobileFilterDrawer: React.FC<{
   open: boolean;
   onClose: () => void;
