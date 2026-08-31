@@ -247,7 +247,7 @@ const Home = () => {
         </div>
       </section>
 
-      {/* SERVICES and Redesigned Departments-style */}
+      {/* SERVICES or Redesigned Departments style */}
       <section className="py-[30px] px-6">
         <div className="max-w-7xl mx-auto relative">
           {/* Big rounded background */}
