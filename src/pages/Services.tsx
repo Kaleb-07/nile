@@ -10,7 +10,6 @@ import Footer from '../components/layout/Footer';
 import { services } from '../data/servicesData';
 
 // TYPES AND DATA
-// ============================================
 
 interface Service {
   icon: React.ElementType;
