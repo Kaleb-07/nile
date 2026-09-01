@@ -606,9 +606,8 @@ const Services: React.FC = () => {
         </div>
       </section>
 
-      {/* ============================================
-          4. CORE SERVICES (MAIN SECTION) (Previously section 3)
-      ============================================ */}
+      {/      4. CORE SERVICES or MAIN SECTION (Previously section 3)
+      */}
       <section className="py-10 px-6 bg-gradient-to-b from-[#050505] to-[#0a0a0a]">
         <div className="max-w-7xl mx-auto">
           <SectionTitle 
