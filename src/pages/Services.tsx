@@ -9,8 +9,7 @@ import Navbar from '../components/layout/Navbar';
 import Footer from '../components/layout/Footer';
 import { services } from '../data/servicesData';
 
-// ============================================
-// TYPES & DATA
+// TYPES AND DATA
 // ============================================
 
 interface Service {
