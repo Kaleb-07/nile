@@ -231,7 +231,7 @@ const ProcessStepCard: React.FC<{ step: ProcessStep; index: number; isLast: bool
           <span className="relative text-3xl font-bold text-[#050505]">{step.number}</span>
         </motion.div>
 
-        {/* Title with slide animation */}
+        {/* Title with a slide animation */}
         <motion.h3 
           className="text-xl font-bold text-white mb-3 group-hover:text-[#d4af37] transition-colors duration-300"
           whileHover={{ x: 5 }}
@@ -239,7 +239,7 @@ const ProcessStepCard: React.FC<{ step: ProcessStep; index: number; isLast: bool
           {step.title}
         </motion.h3>
 
-        {/* Description */}
+        {/* th3 Description */}
         <p className="text-slate-400 leading-relaxed group-hover:text-slate-300 transition-colors duration-300">
           {step.description}
         </p>
