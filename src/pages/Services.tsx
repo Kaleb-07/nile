@@ -31,7 +31,7 @@ interface WhyChooseItem {
   description: string;
 }
 
-// services now imported from ../data/servicesData
+// services now imported from data or servicesData
 
 const processSteps: ProcessStep[] = [
   {
