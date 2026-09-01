@@ -674,9 +674,9 @@ const Services: React.FC = () => {
         </div>
       </section>
 
-      {/* ============================================
-          7. SELECTED WORK FROM SERVICES (Previously section 6)
-      ============================================ */}
+      {/*
+          7. SELECTED WORK FROM SERVICES the Previously section 6
+       */}
       <section className="py-10 px-6 bg-[#050505]">
         <div className="max-w-7xl mx-auto">
           <div className="flex justify-between items-end mb-12">
