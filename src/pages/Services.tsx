@@ -106,10 +106,7 @@ const clients = [
 ];
 
 
-// The REUSABLE COMPONENTS
-// ============================================
-
-// Service Card Component
+// The REUSABLE COMPONENTS or Service Card Component
 const ServiceCard: React.FC<{ service: Service; index: number }> = ({ service, index }) => {
   return (
     <motion.div
