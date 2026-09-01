@@ -365,8 +365,6 @@ const WhyChooseCard: React.FC<{ item: WhyChooseItem; index: number }> = ({ item,
   );
 };
 
-// ============================================
-
 const Services: React.FC = () => {
   return (
     <div className="min-h-screen bg-[#050505]">
@@ -374,9 +372,8 @@ const Services: React.FC = () => {
       {/* Navbar */}
       <Navbar />
       
-      {/* ============================================
-          1. SERVICES HERO SECTION
-      ============================================ */}
+      {/* 
+          1. SERVICES HERO SECTION */}
       <SplitHeroSection
         // eyebrow="What We Do"
         title={<>Premium Cinematic <br /><span className="text-gradient">Production Services</span></>}
