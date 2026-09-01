@@ -105,8 +105,8 @@ const clients = [
   { name: 'BBC', logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/320px-BBC_Logo_2021.svg.png' }
 ];
 
-// ============================================
-// REUSABLE COMPONENTS
+
+// The REUSABLE COMPONENTS
 // ============================================
 
 // Service Card Component
