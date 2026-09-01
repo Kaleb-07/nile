@@ -479,9 +479,8 @@ const Services: React.FC = () => {
         `}</style>
       </section>
 
-      {/* ============================================
-          3. SERVICES OVERVIEW (Previously section 2)
-      ============================================ */}
+      {/*
+          3. SERVICES OVERVIEW or Previously section 2 */}
       <section className="relative py-10 px-6 bg-[#050505] overflow-hidden">
         <div className="max-w-7xl mx-auto">
           <div className="grid lg:grid-cols-2 gap-12 items-center">
