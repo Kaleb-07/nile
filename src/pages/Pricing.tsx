@@ -183,7 +183,7 @@ const Pricing = () => {
               <h2 className="text-3xl md:text-4xl font-bold tracking-tight mb-4">Tell us the service, and we will shape the right package.</h2>
               <p className="text-slate-300 leading-relaxed max-w-3xl">
                 These pricing tiers are built to help customers understand the difference between Normal, Standard, and Pro.
-                Final pricing can be adjusted for shoot days, crew size, travel, rush delivery, and add-ons.
+                Final pricing can be adjusted for shoot day, crews size, travel, rush delivery, and add-ons.
               </p>
             </div>
 
