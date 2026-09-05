@@ -123,7 +123,7 @@ const teamMembers: TeamMember[] = [
       email: 'hanna@kurafilms.com'
     }
   },
-  // Cinematography
+  // The Cinematography
   {
     id: 5,
     name: 'Yonas Haile',
