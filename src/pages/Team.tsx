@@ -65,7 +65,7 @@ const departments: Department[] = [
 ];
 
 const teamMembers: TeamMember[] = [
-  // Leadership
+  // The Leadership
   {
     id: 1,
     name: 'Dawit Alemayehu',
