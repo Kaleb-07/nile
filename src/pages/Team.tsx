@@ -12,7 +12,7 @@ import { SectionTitle } from '../components/cinematic/SectionTitle';
 import { SplitHeroSection } from '../components/cinematic/SplitHeroSection';
 import { TeamMemberCard } from '../components/cinematic/TeamMemberCard';
 
-// TYPES & DATA
+// TYPES and DATA
 
 interface TeamMember {
   id: number;
