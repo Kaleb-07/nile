@@ -149,7 +149,7 @@ const teamMembers: TeamMember[] = [
       instagram: '#'
     }
   },
-  // Editing & Post
+  // Editing And Post
   {
     id: 7,
     name: 'Daniel Assefa',
