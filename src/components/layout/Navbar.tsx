@@ -52,7 +52,7 @@ const Navbar = () => {
             {/* Language Selector */}
             <LanguageSelector variant="topbar" />
 
-            {/* Social Icons */}
+            {/* The Social Icons */}
             <div className="hidden md:flex items-center gap-3 ml-2 pl-4 border-l border-white/20">
               <a href="#" className="hover:text-[#d4af37] transition-colors" aria-label="Facebook">
                 <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor">
