@@ -46,7 +46,7 @@ const Footer = () => {
 
         <div className="border-t border-white/10 pt-8 text-center text-slate-500 text-sm space-y-2">
           <p>&copy; {new Date().getFullYear()} Kura Films. All rights reserved. Crafted with passion in Ethiopia.</p>
-          <p>Developed by Yanol Tech</p>
+          <p>Developed by LuFi Tech</p>
         </div>
       </div>
     </footer>
