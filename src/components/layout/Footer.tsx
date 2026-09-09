@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom';
 
-// socialLinks intentionally removed — icons are rendered inline in navbar/mobile areas
+// socialLinks intentionally removed — icons are rendered inline in navbar or mobile areas
 
 const Footer = () => {
   return (
