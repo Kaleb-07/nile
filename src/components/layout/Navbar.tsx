@@ -47,7 +47,7 @@ const Navbar = () => {
             </div>
           </div>
 
-          {/* Right - Language & Social */}
+          {/* Right the Language & Social */}
           <div className="flex items-center gap-4 ml-auto">
             {/* Language Selector */}
             <LanguageSelector variant="topbar" />
